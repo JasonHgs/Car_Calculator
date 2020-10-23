@@ -1,0 +1,10 @@
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\bin\Debug\automobile_calculator.exe.config
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\bin\Debug\automobile_calculator.exe
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\bin\Debug\automobile_calculator.pdb
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.csprojAssemblyReference.cache
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.frmAutoCost.resources
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.Properties.Resources.resources
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.csproj.GenerateResource.cache
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.exe
+C:\Users\Jayju\source\repos\automobile_calculator\automobile_calculator\obj\Debug\automobile_calculator.pdb
